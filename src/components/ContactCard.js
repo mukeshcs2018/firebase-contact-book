@@ -20,7 +20,6 @@ const ContactCard = ({ data }) => {
     }
   };
 
-  deleteContact;
   return (
     <>
       <div
