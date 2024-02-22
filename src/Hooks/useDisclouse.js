@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
 const useDisclouse = () => {
   const [isModalOpen, setModalOpen] = useState(false);
