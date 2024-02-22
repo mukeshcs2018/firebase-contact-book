@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/firebase-contact-book/static/css/main.a60524e0.css",
+    "main.js": "/firebase-contact-book/static/js/main.04aa69d1.js",
+    "static/js/453.48ee21c7.chunk.js": "/firebase-contact-book/static/js/453.48ee21c7.chunk.js",
+    "index.html": "/firebase-contact-book/index.html",
+    "main.a60524e0.css.map": "/firebase-contact-book/static/css/main.a60524e0.css.map",
+    "main.04aa69d1.js.map": "/firebase-contact-book/static/js/main.04aa69d1.js.map",
+    "453.48ee21c7.chunk.js.map": "/firebase-contact-book/static/js/453.48ee21c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a60524e0.css",
+    "static/js/main.04aa69d1.js"
+  ]
+}
