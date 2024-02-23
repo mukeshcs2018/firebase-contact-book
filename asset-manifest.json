@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/firebase-contact-book/static/css/main.a60524e0.css",
-    "main.js": "/firebase-contact-book/static/js/main.e00e9737.js",
+    "main.js": "/firebase-contact-book/static/js/main.52a4ff08.js",
     "static/js/453.48ee21c7.chunk.js": "/firebase-contact-book/static/js/453.48ee21c7.chunk.js",
+    "static/media/logos_firebase.svg": "/firebase-contact-book/static/media/logos_firebase.5d0f8137648b179355d03d5a1b14902c.svg",
     "index.html": "/firebase-contact-book/index.html",
     "main.a60524e0.css.map": "/firebase-contact-book/static/css/main.a60524e0.css.map",
-    "main.e00e9737.js.map": "/firebase-contact-book/static/js/main.e00e9737.js.map",
+    "main.52a4ff08.js.map": "/firebase-contact-book/static/js/main.52a4ff08.js.map",
     "453.48ee21c7.chunk.js.map": "/firebase-contact-book/static/js/453.48ee21c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a60524e0.css",
-    "static/js/main.e00e9737.js"
+    "static/js/main.52a4ff08.js"
   ]
 }
